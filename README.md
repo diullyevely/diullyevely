@@ -7,7 +7,7 @@ Hi, I'm Diullyévely Duarte, I'm a front end programmer, I'm currently learning 
 ## Connect wwith me:
 
 <p>
-<a href="www.linkedin.com/in/diullyévely-duarte-vieira">
+<a href="www.linkedin.com/in/diullyévely">
 <img aling="left" alt="icone do linkdin" width="22px" src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000">
 </a>
 </p>
